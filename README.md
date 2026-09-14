@@ -154,59 +154,22 @@ I'm currently seeking an **entry-level Software Developer / Python Full-Stack De
 - 🚀 Contribute to meaningful projects
 - 📈 Grow as a software professional
 
----
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<a href="https://github.com/pradeepshan-dev">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=pradeepshan-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"
-    width="48%"
-    alt="Pradeep's GitHub Stats"
-  />
-</a>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pradeep-Shan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<a href="https://github.com/pradeepshan-dev">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepshan-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    width="48%"
-    alt="Pradeep's Top Languages"
-  />
-</a>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pradeep-Shan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </p>
 
----
-
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<a href="https://github.com/pradeepshan-dev">
-  <img
-    src="https://streak-stats.demolab.com/?user=pradeepshan-dev&theme=tokyonight&hide_border=true&border_radius=10"
-    width="75%"
-    alt="Pradeep's GitHub Streak"
-  />
-</a>
-
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<a href="https://github.com/pradeepshan-dev">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepshan-dev&theme=tokyo-night&hide_border=true&area=true"
-    width="95%"
-    alt="Pradeep's Contribution Activity"
-  />
-</a>
+<img src="https://streak-stats.demolab.com?user=pradeep-Shan&theme=tokyonight"/>
 
 </p>
 
