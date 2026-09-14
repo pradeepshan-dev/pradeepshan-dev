@@ -1,34 +1,26 @@
 <div align="center">
 
-<!-- ===================== HEADER ===================== -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:36BCF7&height=220&section=header&text=Hi%20👋,%20I'm%20Pradeep&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Python%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%" />
 
 # 👋 Hi, I'm Pradeep Shanmugam
 
 ### 🚀 Aspiring Full-Stack Developer | Python & Django
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Python+%7C+Django+Developer;Full-Stack+Web+Developer;Building+Real-World+Web+Applications;Learning+%7C+Building+%7C+Growing" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Python+%7C+Django+Developer;Full-Stack+Web+Developer;Building+Real-World+Web+Applications;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 
 <br>
 
 <a href="https://github.com/pradeepshan-dev">
-  <img src="https://img.shields.io/badge/GitHub-pradeepshan--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-pradeepshan--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/pradeep-shanmugam-a803b2362">
-  <img src="https://img.shields.io/badge/LinkedIn-Pradeep%20Shanmugam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Pradeep%20Shanmugam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=pradeepshan-dev&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
 ---
-
-<!-- ===================== ABOUT ME ===================== -->
 
 ## 👨‍💻 About Me
 
@@ -41,27 +33,18 @@ I enjoy building responsive, database-driven applications and turning ideas into
 - 🌐 Interested in Full-Stack Web Development
 - 🗄️ Interested in database-driven applications
 - 💡 Passionate about solving problems through code
-- 🚀 Building practical and real-world projects
-- 📚 Continuously learning and improving my development skills
-- 🎯 Looking for an entry-level Software / Python Full-Stack Developer opportunity
+- 🚀 Building real-world projects
+- 📚 Continuously improving my development skills
 
 ---
-
-<!-- ===================== TECH STACK ===================== -->
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-### 💻 Technologies I Work With
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,django,mysql,git,github,vscode" />
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,django,mysql,git,github,vscode" />
+</p>
 
 ---
-
-<!-- ===================== PROJECTS ===================== -->
 
 # 🚀 Featured Projects
 
@@ -69,16 +52,16 @@ I enjoy building responsive, database-driven applications and turning ideas into
 
 **HTML • CSS • JavaScript • Bootstrap 5**
 
-A responsive multi-page food ordering web application designed to provide a smooth browsing and ordering experience.
+A responsive multi-page food ordering application with a complete browsing and ordering flow.
 
 ### ✨ Features
 
 - 🔐 User login interface
 - 🍕 Dynamic menu browsing
-- 🛒 Cart-based ordering flow
+- 🛒 Cart-based ordering
 - 📦 Order history and view-order system
-- 💾 Browser `localStorage` for persistent cart and order data
-- 🌙 Dark / Light theme toggle
+- 💾 `localStorage` for persistent cart and order data
+- 🌙 Dark/Light theme
 - 🔔 Bootstrap Toast notifications
 - ✨ AOS scroll animations
 - 📱 Responsive Bootstrap 5 design
@@ -94,12 +77,12 @@ A multi-page educational web archive documenting India's freedom struggle and im
 ### ✨ Features
 
 - 🇮🇳 Information about 12 freedom fighters
-- 📜 India's freedom struggle content
+- 📜 Freedom struggle information
 - 🏛️ Post-independence achievements
-- 🇮🇳 Presidents and Prime Ministers section
-- 🎨 Dark navy and gold themed interface
-- 📱 Responsive multi-page design
-- 🧭 Structured navigation using Bootstrap 5
+- 🇮🇳 Presidents and Prime Ministers
+- 🎨 Dark navy and gold UI
+- 📱 Responsive design
+- 🧭 Multi-page Bootstrap navigation
 
 ---
 
@@ -112,9 +95,9 @@ A command-line banking application developed using Object-Oriented Programming p
 ### ✨ Features
 
 - 👤 Account creation
-- 💰 Deposit operations
-- 💸 Withdrawal operations
-- 🔄 Account-to-account fund transfers
+- 💰 Deposits
+- 💸 Withdrawals
+- 🔄 Fund transfers
 - 🧱 Class-based account management
 - 🛡️ Exception handling
 - ⚖️ Balance and transaction validation
@@ -125,25 +108,23 @@ A command-line banking application developed using Object-Oriented Programming p
 
 **Python • Dictionaries • File Handling • Exception Handling**
 
-A console-based application for managing structured student records.
+A console-based application for managing student records.
 
 ### ✨ Features
 
-- ➕ Add student records
-- ✏️ Update student records
-- 🔍 Search student records
-- 🗑️ Delete student records
-- 💾 Persistent data using file handling
+- ➕ Add students
+- ✏️ Update students
+- 🔍 Search students
+- 🗑️ Delete students
+- 💾 File-based data persistence
 - 🛡️ Input validation
 - ⚠️ Exception handling
 
 ---
 
-<!-- ===================== EDUCATION ===================== -->
-
 # 🎓 Education
 
-### 🏫 Nehru Institute of Engineering and Technology
+### Nehru Institute of Engineering and Technology
 
 **B.E. — Electrical & Electronics Engineering**
 
@@ -153,51 +134,14 @@ A console-based application for managing structured student records.
 
 ---
 
-<!-- ===================== CERTIFICATIONS ===================== -->
-
 # 📜 Certifications
 
-| Certificate | Platform |
-|---|---|
-| 🎓 AI For Everyone | Coursera |
-| 📊 Introduction to Microsoft Excel | Coursera |
-| ⚡ Embedded System Using C | Coursera |
-| 🤖 Blue Prism Associate Developer | EduSkill |
+- 🎓 **AI For Everyone** — Coursera
+- 📊 **Introduction to Microsoft Excel** — Coursera
+- ⚡ **Embedded System Using C** — Coursera
+- 🤖 **Blue Prism Associate Developer** — EduSkill
 
 ---
-
-<!-- ===================== CURRENTLY LEARNING ===================== -->
-
-# 📚 Currently Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,mysql,js" />
-
-<br><br>
-
-### 🐍 Python
-⬇️
-
-### 🌐 Django
-⬇️
-
-### 🗄️ Databases & SQL
-⬇️
-
-### 🔗 REST APIs
-⬇️
-
-### 💻 Full-Stack Development
-⬇️
-
-### 🚀 Deployment & Real-World Applications
-
-</div>
-
----
-
-<!-- ===================== CAREER GOAL ===================== -->
 
 # 🎯 Career Goal
 
@@ -208,105 +152,91 @@ I'm currently seeking an **entry-level Software Developer / Python Full-Stack De
 - 🗄️ Work with databases and APIs
 - 🤝 Learn from experienced developers
 - 🚀 Contribute to meaningful projects
-- 📈 Continue growing as a software professional
+- 📈 Grow as a software professional
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
+# 📊 GitHub Stats
 
-# 📊 GitHub Statistics
-
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/pradeepshan-dev">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pradeepshan-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Pradeep's%20GitHub%20Statistics" width="48%" alt="GitHub Statistics"/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=pradeepshan-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"
+    width="48%"
+    alt="Pradeep's GitHub Stats"
+  />
 </a>
 
 <a href="https://github.com/pradeepshan-dev">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepshan-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=My%20Programming%20Languages" width="48%" alt="Top Programming Languages"/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepshan-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    width="48%"
+    alt="Pradeep's Top Languages"
+  />
 </a>
 
-</div>
+</p>
 
 ---
-
-<!-- ===================== GITHUB STREAK ===================== -->
 
 # 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/pradeepshan-dev">
-
-<img src="https://streak-stats.demolab.com/?user=pradeepshan-dev&theme=tokyonight&hide_border=true&border_radius=10" width="75%" alt="GitHub Streak"/>
-
+  <img
+    src="https://streak-stats.demolab.com/?user=pradeepshan-dev&theme=tokyonight&hide_border=true&border_radius=10"
+    width="75%"
+    alt="Pradeep's GitHub Streak"
+  />
 </a>
 
-</div>
+</p>
 
 ---
-
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
 # 📈 Contribution Activity
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/pradeepshan-dev">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepshan-dev&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepshan-dev&theme=tokyo-night&hide_border=true&area=true"
+    width="95%"
+    alt="Pradeep's Contribution Activity"
+  />
 </a>
 
-</div>
+</p>
 
 ---
-
-<!-- ===================== GITHUB TROPHY ===================== -->
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<a href="https://github.com/pradeepshan-dev">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pradeepshan-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" alt="GitHub Trophies"/>
-
-</a>
-
-</div>
-
----
-
-<!-- ===================== CONNECT ===================== -->
 
 # 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/pradeepshan-dev">
-<img src="https://img.shields.io/badge/GitHub-pradeepshan--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-pradeepshan--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/pradeep-shanmugam-a803b2362">
-<img src="https://img.shields.io/badge/LinkedIn-Pradeep%20Shanmugam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Pradeep%20Shanmugam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </div>
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
-
 <div align="center">
 
 ### 🚀 Code • Learn • Build • Grow
 
 <br>
+
+<img src="https://komarev.com/ghpvc/?username=pradeepshan-dev&style=for-the-badge&color=36BCF7" alt="Profile Views">
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7B2FF7&height=120&section=footer" width="100%" />
 
