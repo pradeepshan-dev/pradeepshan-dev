@@ -164,37 +164,24 @@ I'm currently seeking an **entry-level Software Developer / Python Full-Stack De
 - Contribute to meaningful projects
 - Grow as a software professional
 
----
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pradeepshan-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180" alt="GitHub Stats">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pradeep-Shan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepshan-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180" alt="Top Languages">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pradeep-Shan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
-</div>
+</p>
 
----
+## 🔥 GitHub Streak
 
-# 🔥 GitHub Streak
+<p align="center">
 
-<div align="center">
+<img src="https://streak-stats.demolab.com?user=pradeep-Shan&theme=tokyonight"/>
 
-<img src="https://streak-stats.demolab.com/?user=pradeepshan-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepshan-dev&theme=tokyo-night&hide_border=true" alt="Contribution Graph">
-
-</div>
+</p>
 
 ---
 
