@@ -72,6 +72,12 @@ A responsive multi-page food ordering application with a complete browsing and o
 
 **HTML • CSS • JavaScript • Bootstrap 5**
 
+## 🇮🇳 Viduthalai — India's Freedom Struggle Web Archive
+
+<a href="https://github.com/pradeepshan-dev/viduthalai">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 A multi-page educational web archive documenting India's freedom struggle and important historical personalities.
 
 ### ✨ Features
