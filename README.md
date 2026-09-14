@@ -48,6 +48,28 @@ I enjoy building responsive, database-driven applications and turning ideas into
 
 # 🚀 Featured Projects
 
+## 🇮🇳 Viduthalai — India's Freedom Struggle Web Archive
+
+**HTML • CSS • JavaScript • Bootstrap 5**
+
+<a href="https://github.com/pradeepshan-dev/viduthalai">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Viduthalai on GitHub">
+</a>
+
+A digital archive connecting India's freedom struggle, its leaders, and their achievements into one continuous story.
+
+### ✨ Features
+
+- 🇮🇳 Information about 12 freedom fighters
+- 📜 Freedom struggle information
+- 🏛️ Post-independence achievements
+- 🇮🇳 Presidents and Prime Ministers
+- 🎨 Dark navy and gold UI
+- 📱 Responsive design
+- 🧭 Multi-page Bootstrap navigation
+
+---
+
 ## 🍔 Crave Corner — Food Delivery Web App
 
 **HTML • CSS • JavaScript • Bootstrap 5**
@@ -65,24 +87,6 @@ A responsive multi-page food ordering application with a complete browsing and o
 - 🔔 Bootstrap Toast notifications
 - ✨ AOS scroll animations
 - 📱 Responsive Bootstrap 5 design
-
----
-
-## 🇮🇳 Viduthalai — India's Freedom Struggle Web Archive
-
-**HTML • CSS • JavaScript • Bootstrap 5**
-
-A multi-page educational web archive documenting India's freedom struggle and important historical personalities.
-
-### ✨ Features
-
-- 🇮🇳 Information about 12 freedom fighters
-- 📜 Freedom struggle information
-- 🏛️ Post-independence achievements
-- 🇮🇳 Presidents and Prime Ministers
-- 🎨 Dark navy and gold UI
-- 📱 Responsive design
-- 🧭 Multi-page Bootstrap navigation
 
 ---
 
@@ -154,22 +158,43 @@ I'm currently seeking an **entry-level Software Developer / Python Full-Stack De
 - 🚀 Contribute to meaningful projects
 - 📈 Grow as a software professional
 
+---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pradeep-Shan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<a href="https://github.com/pradeepshan-dev">
+<img src="https://github-readme-stats.vercel.app/api?username=pradeepshan-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" width="48%" alt="Pradeep's GitHub Stats">
+</a>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pradeep-Shan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<a href="https://github.com/pradeepshan-dev">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepshan-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Pradeep's Top Languages">
+</a>
 
 </p>
 
-## 🔥 GitHub Streak
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=pradeep-Shan&theme=tokyonight"/>
+<a href="https://github.com/pradeepshan-dev">
+<img src="https://streak-stats.demolab.com/?user=pradeepshan-dev&theme=tokyonight&hide_border=true&border_radius=10" width="75%" alt="Pradeep's GitHub Streak">
+</a>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<a href="https://github.com/pradeepshan-dev">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepshan-dev&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Pradeep's GitHub Contribution Activity">
+</a>
 
 </p>
 
