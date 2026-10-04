@@ -49,7 +49,7 @@ My current development focus includes:
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p>
 
 <img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,js,mysql,git,github,vscode" />
 
