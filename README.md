@@ -1,45 +1,49 @@
 <div align="center">
 
-<p align="center">
-  <img src="./github-banner-1.png" width="100%" alt="Pradeep Shanmugam - Software Developer">
-</p>
+<img src="./github-banner.png" width="100%" alt="Pradeep Shanmugam - Software Developer">
+
+<br><br>
 
 <h2>👋 Hi, I'm Pradeep Shanmugam</h2>
 
 <h3>💻 Software Developer | 🐍 Python & Django | 🌐 Full-Stack Development</h3>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Python+%7C+Django+Developer;Full-Stack+Web+Developer;Building+Real-World+Web+Applications;Django+%7C+MySQL+%7C+JavaScript;Always+Learning+%7C+Always+Building" alt="Typing SVG">
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Python+%7C+Django+Developer;Full-Stack+Web+Developer;Building+Real-World+Web+Applications;Backend+%7C+APIs+%7C+Databases;Always+Learning+%7C+Always+Building" alt="Typing SVG">
 
 <br><br>
 
 <a href="https://github.com/pradeepshan-dev">
-<img src="https://img.shields.io/badge/GitHub-pradeepshan--dev-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-pradeepshan--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/pradeep-shanmugam-a803b2362">
-<img src="https://img.shields.io/badge/LinkedIn-Pradeep%20Shanmugam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Pradeep%20Shanmugam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </div>
 
+---
 
 ## 👨‍💻 About Me
 
-I'm a **Software Developer** and **Python & Django Full-Stack Developer** with a strong interest in building practical, database-driven web applications.
+I'm a **Software Developer** focused on **Python, Django, and Full-Stack Web Development**.
 
-I enjoy turning ideas into real-world software using **Python, Django, MySQL, JavaScript, HTML, CSS, and Bootstrap**.
+I enjoy turning ideas into practical, database-driven applications with clean interfaces, reliable backend logic, authentication systems, APIs, and real-world workflows.
 
-I'm particularly interested in backend development, web application architecture, authentication systems, databases, APIs, and building useful developer-focused applications.
+My current development focus includes:
 
 * 💻 Software Development
-* 🐍 Python & Django Development
+* 🐍 Python & Django
 * 🌐 Full-Stack Web Development
 * 🗄️ MySQL & Database-Driven Applications
 * 🔐 Authentication & User Management
-* 🔌 Backend & API Development
+* 🔌 Backend Development & APIs
 * 🎨 HTML, CSS, JavaScript & Bootstrap
+* 🤖 AI-Powered Applications
 * 🚀 Building Real-World Projects
-* 📚 Continuously Learning & Improving
+* 📚 Continuous Learning
 
 ---
 
@@ -79,6 +83,29 @@ A full-stack **Django coding practice platform** designed to help developers **P
 
 ---
 
+## 📧 ColdMail AI — AI Cold Email Generator
+
+**Python • Django • MySQL • AI APIs • Google OAuth2 • JavaScript**
+
+A full-stack Django application that helps job seekers **generate, refine, evaluate, and send personalized cold emails** while managing outreach from a centralized dashboard.
+
+### ✨ Features
+
+* 🤖 **AI Email Generation** — Generate personalized cold emails using multiple AI providers
+* 🔄 **AI Fallback System** — Multiple AI providers and template fallbacks improve reliability
+* 💬 **AI Email Assistant** — Refine and improve emails through conversational interaction
+* 🛡️ **Scam & Phishing Detection** — Analyze recruiter emails for suspicious patterns
+* 🧠 **Domain-Level Learning** — Improve scam detection using learned domain information
+* 📬 **Gmail OAuth2 Integration** — Send emails and interact with Gmail securely
+* 📊 **Application Tracker** — Track stages such as Sent, Replied, Interview, and Offer
+* 🔐 **Authentication & Profiles** — Custom user authentication and profile management
+
+### 🧱 Built With
+
+`Django` `Python` `MySQL` `Gemini API` `Groq` `OpenRouter` `Mistral` `Google OAuth2` `JavaScript` `HTML` `CSS`
+
+---
+
 ## 🍔 Crave Corner — Food Delivery Web App
 
 **HTML • CSS • JavaScript • Bootstrap 5**
@@ -107,11 +134,11 @@ A multi-page educational web archive documenting India's freedom struggle, impor
 
 ### ✨ Features
 
-* 🇮🇳 Information about freedom fighters
+* 🇮🇳 Freedom fighter archive
 * 📜 Freedom struggle timeline
 * 🏛️ India's post-independence achievements
-* 👨‍💼 Presidents and Prime Ministers archive
-* 🎨 Dark navy and gold UI
+* 👨‍💼 Leaders archive
+* 🎨 Dark navy and gold interface
 * 📱 Responsive design
 * 🧭 Multi-page Bootstrap navigation
 
@@ -162,20 +189,23 @@ A console-based application for managing student records.
 
 ---
 
-# 🎯 Career Goal
+# 🎯 Career Focus
 
-I'm currently seeking an **entry-level Software Developer / Python Full-Stack Developer** opportunity where I can:
+I'm currently looking for an **entry-level Software Developer / Python Full-Stack Developer** opportunity where I can contribute to real-world applications and continue growing as a software professional.
 
-* 💻 Build real-world software applications
-* 🐍 Apply my Python and Django skills
-* 🗄️ Work with databases and APIs
-* 🤝 Learn from experienced developers
-* 🚀 Contribute to meaningful projects
-* 📈 Grow as a software professional
+### What I'm looking to work with
+
+* 🐍 Python & Django
+* 🌐 Full-Stack Web Applications
+* 🗄️ MySQL & Databases
+* 🔌 REST APIs & Backend Systems
+* 🔐 Authentication & Application Security
+* 🤖 AI-Integrated Applications
+* 🤝 Collaborative Software Development
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Activity
 
 <p align="center">
 
@@ -187,17 +217,17 @@ I'm currently seeking an **entry-level Software Developer / Python Full-Stack De
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=pradeepshan-dev&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=pradeepshan-dev&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
 
 </p>
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Let's Connect
 
 <div align="center">
 
@@ -211,18 +241,30 @@ I'm currently seeking an **entry-level Software Developer / Python Full-Stack De
 
 </div>
 
+<br>
+
+<div align="center">
+
+### 💻 Building software that solves real problems.
+
+**Python • Django • MySQL • JavaScript • Full-Stack Development**
+
+<br>
+
+> 🚀 Learn. Build. Debug. Improve. Repeat.
+
+</div>
+
 ---
 
 <div align="center">
 
-### 🚀 Code • Learn • Build • Grow
+### 👋 Thanks for visiting my profile!
+
+If you find my projects interesting, feel free to explore the repositories and connect with me.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=pradeepshan-dev&style=for-the-badge&color=36BCF7" alt="Profile Views">
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7B2FF7&height=120&section=footer" width="100%" />
+**⭐ Keep building. Keep learning. Keep growing.**
 
 </div>
