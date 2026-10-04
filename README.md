@@ -1,52 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:36BCF7&height=220&section=header&text=Hi%20👋,%20I'm%20Pradeep&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Python%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%" />
+<p align="center">
+  <img src="./github-banner-1.png" width="100%" alt="Pradeep Shanmugam - Software Developer">
+</p>
 
-# 👋 Hi, I'm Pradeep Shanmugam
+<h2>👋 Hi, I'm Pradeep Shanmugam</h2>
 
-### 🚀 Aspiring Full-Stack Developer | Python & Django
+<h3>💻 Software Developer | 🐍 Python & Django | 🌐 Full-Stack Development</h3>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Python+%7C+Django+Developer;Full-Stack+Web+Developer;Building+Real-World+Web+Applications;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Python+%7C+Django+Developer;Full-Stack+Web+Developer;Building+Real-World+Web+Applications;Django+%7C+MySQL+%7C+JavaScript;Always+Learning+%7C+Always+Building" alt="Typing SVG">
 
-<br>
+<br><br>
 
 <a href="https://github.com/pradeepshan-dev">
-<img src="https://img.shields.io/badge/GitHub-pradeepshan--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-pradeepshan--dev-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/pradeep-shanmugam-a803b2362">
-<img src="https://img.shields.io/badge/LinkedIn-Pradeep%20Shanmugam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Pradeep%20Shanmugam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
 
----
 
 ## 👨‍💻 About Me
 
-I'm a recent **B.E. Electrical & Electronics Engineering graduate** with a strong interest in software development and full-stack web development.
+I'm a **Software Developer** and **Python & Django Full-Stack Developer** with a strong interest in building practical, database-driven web applications.
 
-I enjoy building responsive, database-driven applications and turning ideas into practical projects using **Python, Django, JavaScript, HTML, CSS, Bootstrap, and MySQL**.
+I enjoy turning ideas into real-world software using **Python, Django, MySQL, JavaScript, HTML, CSS, and Bootstrap**.
 
-- 🎓 B.E. Electrical & Electronics Engineering
-- 🐍 Focused on Python and Django development
-- 🌐 Interested in Full-Stack Web Development
-- 🗄️ Interested in database-driven applications
-- 💡 Passionate about solving problems through code
-- 🚀 Building real-world projects
-- 📚 Continuously improving my development skills
+I'm particularly interested in backend development, web application architecture, authentication systems, databases, APIs, and building useful developer-focused applications.
+
+* 💻 Software Development
+* 🐍 Python & Django Development
+* 🌐 Full-Stack Web Development
+* 🗄️ MySQL & Database-Driven Applications
+* 🔐 Authentication & User Management
+* 🔌 Backend & API Development
+* 🎨 HTML, CSS, JavaScript & Bootstrap
+* 🚀 Building Real-World Projects
+* 📚 Continuously Learning & Improving
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,django,mysql,git,github,vscode" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,js,mysql,git,github,vscode" />
+
 </p>
 
 ---
 
 # 🚀 Featured Projects
+
+## 🐍 DarkCoderz — Coding Practice Platform
+
+**Python • Django • MySQL • HTML • CSS • JavaScript • Bootstrap 5**
+
+A full-stack **Django coding practice platform** designed to help developers **Practice, Debug, and Visualize** their programming skills.
+
+### ✨ Features
+
+* 🧩 **DSA Challenges** — Solve coding problems and earn points
+* 🐛 **Debug Challenges** — Find and fix bugs in broken code
+* 🧠 **Tricky Questions** — Test programming logic with code-output questions
+* 🔥 **Daily Streaks** — Track consistency and maintain coding streaks
+* 🏆 **Leaderboard** — Compete with developers based on points and solved problems
+* 📊 **Progress Dashboard** — Track solved problems, points, and streak performance
+* 🔍 **Visual Code Explainer** — Understand code execution step-by-step
+* 📄 **AI Resume Rewriter** — Tailor resume wording toward job descriptions without inventing skills
+* 🔐 **Authentication** — User registration, login, and protected features
+
+### 🧱 Built With
+
+`Python` `Django` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap 5`
+
+---
 
 ## 🍔 Crave Corner — Food Delivery Web App
 
@@ -56,15 +87,15 @@ A responsive multi-page food ordering application with a complete browsing and o
 
 ### ✨ Features
 
-- 🔐 User login interface
-- 🍕 Dynamic menu browsing
-- 🛒 Cart-based ordering
-- 📦 Order history and view-order system
-- 💾 `localStorage` for persistent cart and order data
-- 🌙 Dark/Light theme
-- 🔔 Bootstrap Toast notifications
-- ✨ AOS scroll animations
-- 📱 Responsive Bootstrap 5 design
+* 🔐 User login interface
+* 🍕 Dynamic menu browsing
+* 🛒 Cart-based ordering
+* 📦 Order history and view-order system
+* 💾 `localStorage` for persistent cart and order data
+* 🌙 Dark/Light theme
+* 🔔 Bootstrap Toast notifications
+* ✨ AOS scroll animations
+* 📱 Responsive Bootstrap 5 design
 
 ---
 
@@ -72,17 +103,17 @@ A responsive multi-page food ordering application with a complete browsing and o
 
 **HTML • CSS • JavaScript • Bootstrap 5**
 
-A multi-page educational web archive documenting India's freedom struggle and important historical personalities.
+A multi-page educational web archive documenting India's freedom struggle, important historical personalities, major events, and India's achievements after independence.
 
 ### ✨ Features
 
-- 🇮🇳 Information about 12 freedom fighters
-- 📜 Freedom struggle information
-- 🏛️ Post-independence achievements
-- 🇮🇳 Presidents and Prime Ministers
-- 🎨 Dark navy and gold UI
-- 📱 Responsive design
-- 🧭 Multi-page Bootstrap navigation
+* 🇮🇳 Information about freedom fighters
+* 📜 Freedom struggle timeline
+* 🏛️ India's post-independence achievements
+* 👨‍💼 Presidents and Prime Ministers archive
+* 🎨 Dark navy and gold UI
+* 📱 Responsive design
+* 🧭 Multi-page Bootstrap navigation
 
 ---
 
@@ -94,13 +125,13 @@ A command-line banking application developed using Object-Oriented Programming p
 
 ### ✨ Features
 
-- 👤 Account creation
-- 💰 Deposits
-- 💸 Withdrawals
-- 🔄 Fund transfers
-- 🧱 Class-based account management
-- 🛡️ Exception handling
-- ⚖️ Balance and transaction validation
+* 👤 Account creation
+* 💰 Deposits
+* 💸 Withdrawals
+* 🔄 Fund transfers
+* 🧱 Class-based account management
+* 🛡️ Exception handling
+* ⚖️ Balance and transaction validation
 
 ---
 
@@ -112,34 +143,22 @@ A console-based application for managing student records.
 
 ### ✨ Features
 
-- ➕ Add students
-- ✏️ Update students
-- 🔍 Search students
-- 🗑️ Delete students
-- 💾 File-based data persistence
-- 🛡️ Input validation
-- ⚠️ Exception handling
-
----
-
-# 🎓 Education
-
-### Nehru Institute of Engineering and Technology
-
-**B.E. — Electrical & Electronics Engineering**
-
-📍 Anna University  
-📅 November 2022 – May 2026  
-🏆 **CGPA: 8.0 / 10**
+* ➕ Add students
+* ✏️ Update students
+* 🔍 Search students
+* 🗑️ Delete students
+* 💾 File-based data persistence
+* 🛡️ Input validation
+* ⚠️ Exception handling
 
 ---
 
 # 📜 Certifications
 
-- 🎓 **AI For Everyone** — Coursera
-- 📊 **Introduction to Microsoft Excel** — Coursera
-- ⚡ **Embedded System Using C** — Coursera
-- 🤖 **Blue Prism Associate Developer** — EduSkill
+* 🎓 **AI For Everyone** — Coursera
+* 📊 **Introduction to Microsoft Excel** — Coursera
+* ⚡ **Embedded System Using C** — Coursera
+* 🤖 **Blue Prism Associate Developer** — EduSkill
 
 ---
 
@@ -147,29 +166,32 @@ A console-based application for managing student records.
 
 I'm currently seeking an **entry-level Software Developer / Python Full-Stack Developer** opportunity where I can:
 
-- 💻 Build real-world software applications
-- 🐍 Apply my Python and Django skills
-- 🗄️ Work with databases and APIs
-- 🤝 Learn from experienced developers
-- 🚀 Contribute to meaningful projects
-- 📈 Grow as a software professional
+* 💻 Build real-world software applications
+* 🐍 Apply my Python and Django skills
+* 🗄️ Work with databases and APIs
+* 🤝 Learn from experienced developers
+* 🚀 Contribute to meaningful projects
+* 📈 Grow as a software professional
 
+---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pradeep-Shan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pradeepshan-dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pradeep-Shan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pradeepshan-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </p>
 
-## 🔥 GitHub Streak
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=pradeep-Shan&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=pradeepshan-dev&theme=tokyonight&hide_border=true" />
 
 </p>
 
